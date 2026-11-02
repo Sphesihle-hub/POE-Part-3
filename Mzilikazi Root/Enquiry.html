@@ -25,9 +25,29 @@
 
     <!-- ADD THIS SEARCH BAR CODE -->
     <div class="search-container">
-      <form action="#" method="get" class="search-form">
-        <input type="search" placeholder="Search menu..." aria-label="Search website">
-      </form>
+      <form action="https://formspree.io/f/xqppgyyn" method="POST">
+  <label for="full-name">Full Name</label>
+  <input type="text" id="full-name" name="full-name" required>
+
+  <label for="email">Email Address</label>
+  <input type="email" id="email" name="email" required>
+
+  <label for="phone">Phone Number</label>
+  <input type="tel" id="phone" name="phone">
+
+  <label for="enquiry-type">Enquiry Type</label>
+  <select id="enquiry-type" name="enquiry-type">
+    <option value="takeaway">Takeaway Order</option>
+    <option value="catering">Catering / Bulk Order</option>
+    <option value="meat-bones">Meat Bones Order</option>
+    <option value="other">Other</option>
+  </select>
+
+  <label for="message">Message</label>
+  <textarea id="message" name="message" rows="6" required></textarea>
+
+  <button type="submit">Send Enquiry</button>
+</form>
     </div>
   </header>
 
