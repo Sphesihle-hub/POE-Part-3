@@ -80,7 +80,7 @@ Repository Organization: Verified that all 5 HTML files reside in the root direc
 
 GitHub Repository: Sphesihle-hub/POE-Part-2
 
-Live Website Link: View Live Deployment on Netlify / GitHub Pages (Replace with your live deployment URL)
+Live Website Link: <https://sphesihle-hub.github.io/POE-Part-2/>
 
 📚 References
 
