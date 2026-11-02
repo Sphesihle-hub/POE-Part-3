@@ -6,7 +6,7 @@ Student Name: [Sphesihle Qwabe]
 
 Student Number: [ST10496725]
 
-Module Code / Name: Web Development (POE Part 3)
+WEDE5020 / Name: Web Development (POE Part 3)
 
 
 GitHub Repository: Sphesihle-hub/POE-Part-2
